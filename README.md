@@ -6,7 +6,6 @@ This is a personal website design project created by me for practice and learnin
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (if used)
 
 ## Purpose
 To improve my web design skills and gain practical experience in frontend development.
